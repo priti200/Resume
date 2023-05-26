@@ -1,0 +1,83 @@
+body {
+    font-family: cursive;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f4dbdb;
+  }
+  
+  .name{
+    text-align: center;
+  }
+  h1 {
+    text-align: left;
+  }
+  
+  .profile-pic {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 200px;
+    border: 2px solid #969494;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+    border: 1px solid #969494;
+    padding: 10px;
+  }
+  
+  .section h2 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .section ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  .section li {
+    margin-bottom: 10px;
+  }
+  
+  .section .info {
+    font-weight: bold;
+  }
+  
+  .social-links {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .personal-info {
+    margin-bottom: 20px;
+  }
+  
+  .personal-info p {
+    margin: 5px 0;
+  }
+
+  .social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
